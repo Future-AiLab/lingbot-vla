@@ -1,4 +1,3 @@
-Here is the English version of the README in professional Markdown format.
 
 ---
 
